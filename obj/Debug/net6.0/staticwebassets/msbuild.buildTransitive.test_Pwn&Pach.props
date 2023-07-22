@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\test_Pwn&amp;Pach.props" />
+</Project>
